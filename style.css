@@ -80,7 +80,6 @@ form {
     display: flex;
  }
 
-
 form button {
     border: none;
     background-color: #0065FC;
@@ -90,7 +89,6 @@ form button {
     font-size: 16px;
     font-weight: bold;
 }
-
 
 .loupe {
     border: none;
@@ -103,13 +101,11 @@ form button {
     display: none;
 }
 
-
 input {
     font-size: 18px;
     border: 2px solid #F2F2F2;
     height: 49px;
 }
-
 
 .icon-wrapper {
     border-radius: 15px 0 0 15px;
@@ -169,14 +165,11 @@ input {
     margin-right: 20px;
 }
 
-
 .filtre_lien:hover {
     background-color: #DEEBFF;
     border-radius: 25px;
     cursor: pointer;
 }
-
-
 
 /* icone information et texte */
 
@@ -188,7 +181,6 @@ input {
     margin-right: 11px;
     padding: 4px 9px 4px 9px;
 }
-
 
 .information  {
     display: flex;
@@ -406,7 +398,6 @@ div.box_heberge .etoile_hebergement i.etoile_heberge_color_grise  {
 .cont_card_pop .etoile_pop .etoile_pop_grise {
     color:#F2F2F2;
     font-size: 12px;
-    
 }
 
 /* section conteneur Activité à Marseille */
@@ -471,7 +462,6 @@ div.box_heberge .etoile_hebergement i.etoile_heberge_color_grise  {
 .box_footer {
     margin: 4% 5% 5% 5%;
 }
-
 
 .box_footer h3 {
     font-weight: 700;
@@ -617,12 +607,12 @@ div.box_heberge .etoile_hebergement i.etoile_heberge_color_grise  {
     }
 
     .filtre4box {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    width: 100%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        width: 100%;
     }
 
     .filtre_lien { 
@@ -647,7 +637,7 @@ div.box_heberge .etoile_hebergement i.etoile_heberge_color_grise  {
     }
 
     .carte_6box {
-    flex-direction: column;
+        flex-direction: column;
     }
 
     .activite h2 {
