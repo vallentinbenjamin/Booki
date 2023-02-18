@@ -704,12 +704,3 @@ div.box_heberge .etoile_hebergement i.etoile_heberge_color_grise  {
     }
 
 }
-
-/* pour envoyer un commit sur github
-il faut d'abord initialiser un depot sur le dossier contenant tout les fichiers à envoyer avec la commande git init
-puis sur github cliquer sur son avatar selectionner your repository créer un nouveau repository puis copié le lien dans la zone bleue
-retourner sur le terminal git et taper la commande git remote add et insérer le lien copié sur github 
-le depot est maintenant lié sur le repository de github
-puis taper git add nom du fichier ou . pour indexer stage tout les fichiers du depot 
-ensuite taper la commande git commit -m "description du commit" 
-puis taper la commande git push -u origin main  */
